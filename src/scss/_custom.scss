@@ -1,0 +1,15 @@
+// Here you can add other styles
+.card-header{
+    background-color: $theme-color ;
+    color:white;
+}
+
+.card{
+    -webkit-box-shadow: $-webkit-box-shadow-card;
+    -moz-box-shadow: $-moz-box-shadow-card;
+    box-shadow: $box-shadow-card;
+}
+
+.mb-form{
+    margin-bottom: 8px;
+}

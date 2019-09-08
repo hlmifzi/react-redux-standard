@@ -1,0 +1,30 @@
+const usersData = [
+  { id: 1, name: 'John Doe', role: 'Guest', status: 'Pending' },
+  { id: 2, name: 'Samppa Nori', role: 'Member', status: 'Active' },
+  { id: 3, name: 'Estavan Lykos', role: 'Staff', status: 'Banned' },
+  { id: 4, name: 'Chetan Mohamed', role: 'Admin', status: 'Inactive' },
+  { id: 5, name: 'Derick Maximinus', role: 'Member', status: 'Pending' },
+  { id: 6, name: 'Friderik Dávid', role: 'Staff', status: 'Active' },
+  { id: 7, name: 'Yiorgos Avraamu', role: 'Member', status: 'Active' },
+  { id: 8, name: 'Avram Tarasios', role: 'Staff', status: 'Banned' },
+  { id: 9, name: 'Quintin Ed', role: 'Admin', status: 'Inactive' },
+  { id: 10, name: 'Enéas Kwadwo', role: 'Member', status: 'Pending' },
+  { id: 11, name: 'Agapetus Tadeáš', role: 'Staff', status: 'Active' },
+  { id: 12, name: 'Carwyn Fachtna', role: 'Member', status: 'Active' },
+  { id: 13, name: 'Nehemiah Tatius', role: 'Staff', status: 'Banned' },
+  { id: 14, name: 'Ebbe Gemariah', role: 'Admin', status: 'Inactive' },
+  { id: 15, name: 'Eustorgios Amulius', role: 'Member', status: 'Pending' },
+  { id: 16, name: 'Leopold Gáspár', role: 'Staff', status: 'Active' },
+  { id: 17, name: 'Pompeius René', role: 'Member', status: 'Active' },
+  { id: 18, name: 'Paĉjo Jadon', role: 'Staff', status: 'Banned' },
+  { id: 19, name: 'Micheal Mercurius', role: 'Admin', status: 'Inactive' },
+  { id: 20, name: 'Ganesha Dubhghall', role: 'Member', status: 'Pending' },
+  { id: 21, name: 'Hiroto Šimun', role: 'Staff', status: 'Active' },
+  { id: 22, name: 'Vishnu Serghei', role: 'Member', status: 'Active' },
+  { id: 23, name: 'Zbyněk Phoibos', role: 'Staff', status: 'Banned' },
+  { id: 24, name: 'Einar Randall', role: 'Admin', status: 'Inactive' },
+  { id: 25, name: 'Félix Troels', role: 'Staff', status: 'Active' },
+  { id: 42, name: 'Aulus Agmundr', role: 'Member', status: 'Pending' }
+]
+
+export default usersData
